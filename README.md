@@ -5,3 +5,6 @@ Projeto de uma aplicação Web para o AC318
   A Linguagem usada será o Python, atraves de seu Framework para aplicações web DJANGO.
   O Banco de DAdos usado será o MYSQL.
   E para o servidor será usado o APACHE TOMCAT.
+  
+  EQUIPE:
+  Vinicius230894
